@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Santayo Kundu</h1>
 <h3 align="center">5🌟 in C in Hackerrank, Student of NiT(IT)’26, Learning JAVA, DSA.</h3>
